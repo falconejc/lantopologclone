@@ -1,0 +1,4 @@
+pysnmp
+PyQt6
+networkx
+
